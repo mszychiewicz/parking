@@ -12,7 +12,6 @@ parking.
 
 		GET http://localhost:8080/locations/3/parking?locationId=3&registration=AB1234
 	
-Założyłem, że operatort parkingu sprawdza czy dany samochód ma włączony licznik tylko na danym parkingu.
 
 3. As a driver, I want to stop the parking meter, so that I pay only for the actual parking time
 
